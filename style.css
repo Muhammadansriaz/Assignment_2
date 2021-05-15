@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+input{
+    margin-bottom: 30px;
+}
+ a{
+    text-decoration: none;
+}
+button{
+    margin-bottom: 15px;
+    margin-top: 40px;
+    width: 8pc;
+}
+#dashboard{
+    margin-left: 20pc;
+    text-align: center;
+    background-color: lightgray;
+    width: 50%;
+    height: 20pc;
+}
+.tabl{
+    position: absolute;
+    top: 8pc;
+    left: 32pc;
+    right:5pc;
+    padding: 20px;
+}
+.less{
+    width: 4pc;
+    margin-bottom: 40px;
+}
+.xyz{
+    margin-bottom: 30px;
+    margin-right: 10px;
+    border: 2px solid black;
+}
+.xx{
+    margin-right: 20px;
+}
+.hidden{
+    display: none;
+}
